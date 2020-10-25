@@ -1,4 +1,4 @@
-## Widget for COVID-19 cases and incidence numbers ##
+## Widget for COVID-19 Cases and Incidence Numbers ##
 
 Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
 
