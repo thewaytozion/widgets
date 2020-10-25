@@ -468,7 +468,7 @@ async function getImage(image) {
     } else {
         // file not found
         // download once
-        let imageUrl = "later.png";
+        let imageUrl = "https://github.com/thewaytozion/widgets/blob/main/img/blank.png";
         console.log(`Sorry, couldn't find ${path}.`);
         let iconImage = await loadImage(imageUrl);
         fm.writeImage(path, iconImage);
