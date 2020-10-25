@@ -13,10 +13,7 @@ My personal screenshot from widget can be seen below:
 3. Take a screenshot from your empty homescreen (guideline [here](https://www.howtogeek.com/694004/how-to-create-widgets-with-transparent-backgrounds-on-iphone/amp/ "here") )
 4. Run script from point 2, follow script guideline and export to FILE at end of script, save image to "Scriptable" iCloud-folder (or subfolder). Remember (subfolder and) image file name!
 5. Create a new script within scriptable using source code from this [Inzidenz-COVID-19.js](https://github.com/thewaytozion/widgets/blob/main/Inzidenz-COVID-19.js "Inzidenz-COVID-19.js"); for gradient colored background set variable USE_BG_IMG (line 20 in source code) to false, for background image set it to true, define BG_IMG_SUBFOLDER and BG_IMG as saved (remembered) from point 4 above
-let USE_BG_IMG = false;
-const BG_IMG_SUBFOLDER = "/img/";
-const BG_IMG = "widgetBG.jpg";
-6. go to iPhone homescreen press and hold on nackground image, go to + button in upper left corner, add widget from scriptable and select Inzidenz-COVID-19.js
+6. Go to iPhone homescreen press and hold on background image, go to + button in upper left corner, add widget from scriptable and select Inzidenz-COVID-19.js
 7. done
 
 ### Sources/Credits: ###
