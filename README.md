@@ -10,7 +10,7 @@ My personal screenshot from widget can be seen below:
 Sources:
 
 1. Initial [Toilet Paper](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2 "Toilet Paper") Script
-2. Initial incidence scripts Kevninkub
+2. Initial [incidence scripts Kevninkub](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664 "incidence scripts Kevninkub")  
 3. Script for background-image (for pseudo-widget-transparency):
 gist.github.com/mzeryck/3a97cc…
 
