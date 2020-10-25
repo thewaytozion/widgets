@@ -461,7 +461,9 @@ function loadData(suffix) {
 async function getImage(image) {
     let fm = FileManager.iCloud();
     let dir = fm.documentsDirectory()+BG_IMG_SUBFOLDER;
+    let dir2 = fm.documentsDirectory();
     let path = fm.joinPath(dir, image);
+    let path2 = fm.joinPath(dir2, image);
     if (fm.fileExists(path)) {
 	console.log(`file found ${path}.`);
         return fm.readImage(path);
@@ -471,7 +473,7 @@ async function getImage(image) {
         let imageUrl = "https://github.com/thewaytozion/widgets/blob/main/img/noimage.jpg";
         console.log(`Sorry, couldn't find ${path}.`);
         let iconImage = await loadImage(imageUrl);
-        fm.writeImage(path, iconImage);
+        fm.writeImage(path2, iconImage);
         return iconImage;
         }
 }
