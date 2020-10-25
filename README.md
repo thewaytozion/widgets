@@ -2,7 +2,7 @@
 
 Widget to be used in Scritpable for iOS14.
 
-Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Covid-Widget.jpg "Screenshot")
 
 
 Source code used on my device and is not optimized. Feel free to do so.
