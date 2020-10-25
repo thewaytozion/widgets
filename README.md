@@ -9,12 +9,11 @@ My personal screenshot from widget can be seen below:
 
 Sources:
 
-1. Initial [toilet paper script](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2 "toilet paper script") by
+1. Initial [toilet paper script](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2 "toilet paper script") by [marco79cgn](https://gist.github.com/marco79cgn "marco79cgn")
 2. Initial [incidence scripts](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664 "incidence scripts") by Kevninkub
 3. Amazing [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script") by
-(for pseudo-widget-transparency):
-gist.github.com/mzeryck/3a97cc…
 
 
 
 
+ "toilet paper script") 
