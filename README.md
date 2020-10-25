@@ -11,8 +11,8 @@ My personal screenshot from widget can be seen below:
 1. Download [Scriptable](https://t.co/XuruULlFCb?amp=1 "Scriptable") from AppStore
 2. Create a new script within scriptable using source code from [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script")
 3. Take a screenshot from your empty homescreen (guideline [here](https://www.howtogeek.com/694004/how-to-create-widgets-with-transparent-backgrounds-on-iphone/amp/ "here") )
-4. Run script from point 2, follow script guideline and export to FILE at end of script, save it to "Scriptable" iCloud-folder (or subfolder). Remember (subfolder and) image file name!
-5. Create a new script within scriptable using source code from this [Inzidenz-COVID-19.js](https://github.com/thewaytozion/widgets/blob/main/Inzidenz-COVID-19.js "Inzidenz-COVID-19.js"); for gradient colored background set variable USE_BG_IMG to false, for background image set it to true, define BG_IMG_SUBFOLDER and BG_IMG as saved (remembered) from point 4 above
+4. Run script from point 2, follow script guideline and export to FILE at end of script, save image to "Scriptable" iCloud-folder (or subfolder). Remember (subfolder and) image file name!
+5. Create a new script within scriptable using source code from this [Inzidenz-COVID-19.js](https://github.com/thewaytozion/widgets/blob/main/Inzidenz-COVID-19.js "Inzidenz-COVID-19.js"); for gradient colored background set variable USE_BG_IMG (line 20 in source code) to false, for background image set it to true, define BG_IMG_SUBFOLDER and BG_IMG as saved (remembered) from point 4 above
 let USE_BG_IMG = false;
 const BG_IMG_SUBFOLDER = "/img/";
 const BG_IMG = "widgetBG.jpg";
