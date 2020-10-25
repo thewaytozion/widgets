@@ -1,6 +1,6 @@
 ## COVID-19 case incidence numbers in Germany by state, RKI Source disease.sh ##
 
-Widget to be used in Scritpable for iOS14.
+Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
 
 ![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Covid-Widget.jpg "Screenshot")
 
