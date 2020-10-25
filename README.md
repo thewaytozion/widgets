@@ -7,11 +7,11 @@ Initial source code had been leveraged in from multiple sources, which are liste
 My personal screenshot from widget can be seen below:
 ![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Covid-Widget.jpg "Screenshot")
 
-Screenshot")
-
 ### Installation Guideline: ###
-1. d
-### Sources: ###
+1. Download [Scriptable](https://t.co/XuruULlFCb?amp=1 "Scriptable") from AppStore
+2. Create a new script within scriptable using source code from [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script")
+3. 
+### Sources/Credits: ###
 
 1. Initial [toilet paper script](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2 "toilet paper script") by [marco79cgn](https://gist.github.com/marco79cgn "marco79cgn")
 2. Initial [incidence scripts](https://gist.github.com/kevinkub/46caebfebc7e26be63403a7f0587f664 "incidence scripts") by [Kevninkub](https://gist.github.com/kevinkub "Kevninkub")  
