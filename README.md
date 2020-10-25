@@ -1,4 +1,4 @@
-## COVID-19 case incidence numbers in Germany by state, RKI Source disease.sh ##
+## Widget for COVID-19 cases and incidence numbers ##
 
 Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
 
@@ -6,6 +6,13 @@ Initial source code had been leveraged in from multiple sources, which are liste
  
 My personal screenshot from widget can be seen below:
 ![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Covid-Widget.jpg "Screenshot")
+
+Sources:
+
+1. Initial Toilet Paper script
+2. Initial incidence scripts Kevninkub
+3. Script for background-image (for pseudo-widget-transparency):
+gist.github.com/mzeryck/3a97cc…
 
 
 
