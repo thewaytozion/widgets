@@ -21,7 +21,7 @@ let USE_BG_IMG = false;
 // for USE_BG_IMG true set your background image pas
 // iCloud must be enabled on the device in order to use this.
 // create sub-folder in iCloud-folder "Scriptable" and save bg-image 
-const BG_IMG_SUBFOLDER = "/im/";
+const BG_IMG_SUBFOLDER = "/img/";
 const BG_IMG = "widgetBG.jpg";
 
 // for USE_BG_IMG false set your gradient colors below
@@ -468,7 +468,7 @@ async function getImage(image) {
     } else {
         // file not found
         // download once
-        let imageUrl = "https://github.com/thewaytozion/widgets/blob/main/img/default.jpg";
+        let imageUrl = "https://github.com/thewaytozion/widgets/blob/main/img/noimage.jpg";
         console.log(`Sorry, couldn't find ${path}.`);
         let iconImage = await loadImage(imageUrl);
         fm.writeImage(path, iconImage);
