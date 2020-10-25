@@ -12,7 +12,7 @@ My personal screenshot from widget can be seen below:
 2. Create a new script within scriptable using source code from [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script")
 3. Take a screenshot from your empty homescreen (guideline here)
 4. Run script from point 2, follow script guideline and export to FILE at end of script, save it to "Scriptable" iCloud-folder (or subfolder). Remember (subfolder and) image file name!
-5. Create a new script within scriptable using source code from [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script")
+5. Create a new script within scriptable using source code from this [pseudo-transparent script](https://github.com/thewaytozion/widgets/blob/main/Inzidenz-COVID-19.js "pseudo-transparent script")
 
 ### Sources/Credits: ###
 
