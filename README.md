@@ -12,7 +12,7 @@ My personal screenshot from widget can be seen below:
 1. Download [Scriptable](https://t.co/XuruULlFCb?amp=1 "Scriptable") from AppStore
 2. Create a new script within scriptable using source code from [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script")
 3. Take a screenshot from your empty homescreen (guideline [here](https://www.howtogeek.com/694004/how-to-create-widgets-with-transparent-backgrounds-on-iphone/amp/ "here") )
-4. Run script from point 2, follow script guideline and export to your photo library app on the iPhone
+4. Run script from point 2, follow script guideline and export picture to your photo library app on the iPhone
 5. Create a new script within scriptable using source code from this [WeatherWidget-Charts.js](https://github.com/thewaytozion/widgets/blob/main/WeatherWidget-Charts.js "WeatherWidget-Charts.js"); for gradient colored background set variable USE_BG_IMG (line 37 in source code) to false, for background image set it to true
 6. Go to iPhone homescreen press and hold on background image, go to + button in upper left corner, add widget from scriptable and select WeatherWidget-Charts.js
 7. done
