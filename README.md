@@ -3,7 +3,7 @@
 
 Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
 
-Initial source code had been leveraged in from multiple sources, which are listed at the end of this README.md. I modified this source-code for my personal use. Source code is not optimized and for personal use. Feel free to improve code.
+Initial source code had been leveraged in from multiple sources, which are listed at the end of this README.md. I modified this source-code for my personal use. Source code is not optimized and is for personal use. Feel free to improve code. Currently German language only.
  
 My personal screenshot from widget can be seen below:
 ![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Weather-Widget.jpg "Screenshot")
@@ -30,7 +30,7 @@ My personal screenshot from widget can be seen below:
 
 Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
 
-Initial source code had been leveraged in from multiple sources, which are listed at the end of this README.md. I modified this source-code for my personal use. Source code is not optimized and for personal use. Feel free to improve code.
+Initial source code had been leveraged in from multiple sources, which are listed at the end of this README.md. I modified this source-code for my personal use. Source code is not optimized and is for personal use. Feel free to improve code.
  
 My personal screenshot from widget can be seen below:
 ![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Covid-Widget.jpg "Screenshot")
