@@ -21,8 +21,7 @@ My personal screenshot from widget can be seen below:
 
 1. Base source code used from [weather-cal scripts](https://github.com/mzeryck/Weather-Cal/blob/main/weather-cal.js "weather-cal scripts") by [mzeryck](https://gist.github.com/mzeryck "mzeryck") 
 2. Amazing [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script") by [mzeryck](https://gist.github.com/mzeryck "mzeryck") and [simonbs](https://gist.github.com/simonbs "simonbs") 
-3. Weather Widgets with chart, leveraged in source code: [weather-widget script](https://gist.github.com/ImGamez/a8f9d77bf660d7703cc96fee87cdc4b0 " weather-widget script")
-[weather-widget script] (https://gist.github.com/ImGamez/a8f9d77bf660d7703cc96fee87cdc4b0 "weather-widget script") by [ImGamez](https://gist.github.com/ImGamez "ImGamez") 
+3. Weather Widgets with chart, leveraged in source code: [weather-widget script](https://gist.github.com/ImGamez/a8f9d77bf660d7703cc96fee87cdc4b0 " weather-widget script") by [ImGamez](https://gist.github.com/ImGamez "ImGamez") 
 
 ---
 
