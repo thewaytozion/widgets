@@ -1,3 +1,31 @@
+
+## Weather Widget ##
+
+Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
+
+Initial source code had been leveraged in from multiple sources, which are listed at the end of this README.md. I modified this source-code for my personal use. Source code is not optimized and for personal use. Feel free to improve code.
+ 
+My personal screenshot from widget can be seen below:
+![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Weather-Widget.jpg "Screenshot")
+
+### Installation Guideline: ###
+1. Download [Scriptable](https://t.co/XuruULlFCb?amp=1 "Scriptable") from AppStore
+2. Create a new script within scriptable using source code from [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script")
+3. Take a screenshot from your empty homescreen (guideline [here](https://www.howtogeek.com/694004/how-to-create-widgets-with-transparent-backgrounds-on-iphone/amp/ "here") )
+4. Run script from point 2, follow script guideline and export to your photo library app on the iPhone
+5. Create a new script within scriptable using source code from this [WeatherWidget-Charts.js](https://github.com/thewaytozion/widgets/blob/main/WeatherWidget-Charts.js "WeatherWidget-Charts.js"); for gradient colored background set variable USE_BG_IMG (line 37 in source code) to false, for background image set it to true
+6. Go to iPhone homescreen press and hold on background image, go to + button in upper left corner, add widget from scriptable and select WeatherWidget-Charts.js
+7. done
+
+### Sources/Credits: ###
+
+1. Base source code used: [weather-cal scripts](https://github.com/mzeryck/Weather-Cal/blob/main/weather-cal.js "weather-cal scripts") by [mzeryck](https://gist.github.com/mzeryck "mzeryck") 
+2. Amazing [pseudo-transparent script](https://gist.github.com/mzeryck/3a97ccd1e059b3afa3c6666d27a496c9#gistcomment-3468585 "pseudo-transparent script") by [mzeryck](https://gist.github.com/mzeryck "mzeryck") and [simonbs](https://gist.github.com/simonbs "simonbs") 
+4. Weather Widgets with chart, leveraged in source code: https://gist.github.com/ImGamez/a8f9d77bf660d7703cc96fee87cdc4b0 by [ImGamez](https://gist.github.com/ImGamez "ImGamez") 
+
+---
+
+
 ## Widget for COVID-19 Cases and Incidence Numbers ##
 
 Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
