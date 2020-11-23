@@ -23,7 +23,7 @@ My personal screenshot from Shortcut can be seen below:
   The wallpapers can have the same image in it, but the intend is to have 4 separate wallpapers for lockscreen and homescreen with night and day time.
   You may use the following wallpapers for testing purposes.
   
-   [Wallpaper iPhone 11 Max Pro](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Wallpaper iPhone 11 Max Pro")
+   [Wallpaper iPhone 11 Max Pro](https://github.com/thewaytozion/widgets/tree/main/img/walls "Wallpaper iPhone 11 Max Pro")
   
 4. Run Shortcut
 5. done
