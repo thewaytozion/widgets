@@ -1,12 +1,15 @@
 
 ## Weather Shortcut on Lockscreen / Homescreen ##
 
+#DRAFT#
+
 IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
 
 Shortcut can be downloaded here [Link Later](https://t.co/XuruULlFCb?amp=1 "Link Later") for iOS14.3
  
 My personal screenshot from Shortcut can be seen below:
-![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Weather-Widget.jpg "Screenshot")
+![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/HS_Shortcuts.PNG "Screenshot1")
+![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LS_Shortcuts.PNG "Screenshot2")
 
 ### Installation Guideline: ###
 1. Create Subfolder "iOSWeather" to your iCloud "Shortcuts" folder
