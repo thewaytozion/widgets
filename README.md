@@ -8,8 +8,8 @@ IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" funct
 Shortcut can be downloaded here [Link Later](https://t.co/XuruULlFCb?amp=1 "Link Later") for iOS14.3
  
 My personal screenshot from Shortcut can be seen below:
-![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/HS_Shortcuts.PNG "Screenshot1")
-![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LS_Shortcuts.PNG "Screenshot2")
+![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LS.PNG "Screenshot1")
+![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/HS.PNG "Screenshot2")
 
 ### Installation Guideline: ###
 1. Create Subfolder "iOSWeather" to your iCloud "Shortcuts" folder
