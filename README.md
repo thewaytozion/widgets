@@ -16,10 +16,9 @@ My personal screenshot from Shortcut can be seen below:
 2. Create Subfolder "walls" to the subfolder created above "iOSWeather"
 3. Place your own Wallpapers (maximum size for wallpapers are limited to your screensize --> [Device Screensizes](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Device Screensizes") e.g. iPhone 11: 828x1792 px MAX!!:
  Store 4 Wallpapers to the folder:
-  
-4. Run script from point 2, follow script guideline and export picture to your photo library app on the iPhone
-5. Create a new script within scriptable using source code from this [WeatherWidget-Charts.js](https://github.com/thewaytozion/widgets/blob/main/WeatherWidget-Charts.js "WeatherWidget-Charts.js"); for gradient colored background set variable USE_BG_IMG (line 37 in source code) to false, for background image set it to true
-6. Go to iPhone homescreen press and hold on background image, go to + button in upper left corner, add widget from scriptable and select WeatherWidget-Charts.js
+  ![files](https://github.com/thewaytozion/widgets/blob/main/img/wallpapers.png "Files")
+4. later
+...
 7. done
 
 ### Sources/Credits: ###
