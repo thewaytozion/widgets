@@ -13,7 +13,7 @@ My personal screenshot from Shortcut can be seen below:
 
 ### Installation Guideline: ###
 1. Create Subfolder "iOSWeather" to your iCloud "Shortcuts" folder
-2. Create Subfolder "walls" to the subfolder created above ("iOSWeather")
+2. Create Subfolder "walls" to the subfolder created above (in "iOSWeather")
 3. Place your own Wallpapers (try to match your iPhone screen size, but do not exceed maximum size; in Shortcuts the wallpapers are limited to your screensize --> [Device Screensizes](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Device Screensizes") e.g. iPhone 11: 828x1792 px MAX!!:
  Store 4 Wallpapers to the folder "/Shortcuts/iOSWeather/walls/":
  
