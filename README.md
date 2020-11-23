@@ -20,23 +20,23 @@ My personal screenshot from Shortcut can be seen below:
  
   ![files](https://github.com/thewaytozion/widgets/blob/main/img/wallpapers.png "Files")
   
-  The wallpaper can have the same image in it, but the intend is to have 4 separate wallpapers gor lockscreen and homescreen with night and day time.
-  You may use thos wallpapere here for testing purposes.
+  The wallpapers can have the same image in it, but the intend is to have 4 separate wallpapers for lockscreen and homescreen with night and day time.
+  You may use the following wallpapers for testing purposes.
   
    [Wallpaper iPhone 11 Max Pro](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Wallpaper iPhone 11 Max Pro")
   
 4. Run Shortcut
 5. done
 
-Optional and recommendet:
+Optional and recommended:
 6. Set automation to run this shortcut (e.g. every hour)
 7. Set also automation for sunset and sunrise
-8. turn notifications for Shortcuts off ( iPhone settings --> usage time --> more (under diagramm) -> scroll down to notifications and find Shortcuts ( at least one automation/notications is required on phone before you see shortcuts here) --> turn off
+8. turn notifications for Shortcuts-app off ( iPhone settings --> usage time --> click on more (under diagramm) -> scroll down to notifications and find Shortcuts ( at least one automation/notications is required on phone before you see shortcuts here) --> turn off )
 
 ### Sources/Credits: ###
 
 1. Text to PNG source code from [Text to PNG](https://routinehub.co/shortcut/6552/ "Text to PNG") by [atnbueno](https://routinehub.co/user/atnbueno "atnbueno") 
-2. Wallpaper Preparation from [kleinmone](https://twitter.com/kleinmone "kleinmone") 
+2. Wallpaper preparation from [kleinmone](https://twitter.com/kleinmone "kleinmone") 
 
 ---
 ## Weather Widget ##
