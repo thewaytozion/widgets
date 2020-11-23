@@ -1,7 +1,6 @@
 
 ## Weather Shortcut on Lockscreen / Homescreen ##
 
-#DRAFT#
 
 IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
 
