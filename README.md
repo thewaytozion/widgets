@@ -5,7 +5,7 @@
 
 IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
 
-Shortcut can be downloaded here [Link Later](https://t.co/XuruULlFCb?amp=1 "Link Later") for iOS14.3
+Shortcut for iOS 14.3 can be downloaded here [Link Later](https://t.co/XuruULlFCb?amp=1 "Link Later").
  
 My personal screenshot from Shortcut can be seen below:
 ![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LS.PNG "Screenshot1")
@@ -25,9 +25,13 @@ My personal screenshot from Shortcut can be seen below:
   
    [Wallpaper iPhone 11 Max Pro](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Wallpaper iPhone 11 Max Pro")
   
-4. later
-...
-7. done
+4. Run Shortcut
+5. done
+
+Optional and recommendet:
+6. Set automation to run this shortcut (e.g. every hour)
+7. Set also automation for sunset and sunrise
+8. turn notifications for Shortcuts off ( iPhone settings --> usage time --> more (under diagramm) -> scroll down to notifications and find Shortcuts ( at least one automation/notications is required on phone before you see shortcuts here) --> turn off
 
 ### Sources/Credits: ###
 
