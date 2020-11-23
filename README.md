@@ -1,4 +1,30 @@
 
+## Weather Shortcut on Lockscreen / Homescreen ##
+
+IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
+
+Shortcut can be downloaded here [Link Later](https://t.co/XuruULlFCb?amp=1 "Link Later") for iOS14.3
+ 
+My personal screenshot from Shortcut can be seen below:
+![Screenshot](https://github.com/thewaytozion/widgets/blob/main/img/ScreenShot-Weather-Widget.jpg "Screenshot")
+
+### Installation Guideline: ###
+1. Create Subfolder "iOSWeather" to your iCloud "Shortcuts" folder
+2. Create Subfolder "walls" to the subfolder created above "iOSWeather"
+3. Place your own Wallpapers (maximum size for wallpapers are limited to your screensize --> [Device Screensizes](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Device Screensizes") e.g. iPhone 11: 828x1792 px MAX!!:
+ Store 4 Wallpapers to the folder:
+  
+4. Run script from point 2, follow script guideline and export picture to your photo library app on the iPhone
+5. Create a new script within scriptable using source code from this [WeatherWidget-Charts.js](https://github.com/thewaytozion/widgets/blob/main/WeatherWidget-Charts.js "WeatherWidget-Charts.js"); for gradient colored background set variable USE_BG_IMG (line 37 in source code) to false, for background image set it to true
+6. Go to iPhone homescreen press and hold on background image, go to + button in upper left corner, add widget from scriptable and select WeatherWidget-Charts.js
+7. done
+
+### Sources/Credits: ###
+
+1. Text to PNG source code from [Text to PNG](https://routinehub.co/shortcut/6552/ "Text to PNG") by [atnbueno](https://routinehub.co/user/atnbueno "atnbueno") 
+2. Wallpaper Preparation from [kleinmone](https://twitter.com/kleinmone "kleinmone") 
+
+---
 ## Weather Widget ##
 
 Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
