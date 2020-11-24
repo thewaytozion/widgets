@@ -4,7 +4,7 @@
 
 IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
 
-Shortcut for iOS 14.3 can be downloaded here [Install Shortcut](https://www.icloud.com/shortcuts/0291b05147964b61ae3aec079d0adf85 "Shortcut").
+Shortcut for iOS 14.3 can be downloaded here [Install Shortcut](https://www.icloud.com/shortcuts/ed1a6a4042bb4a6e87a9a0b676f5a7b4 "Shortcut").
  
 My personal screenshot from Shortcut can be seen below:
 ![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LS.PNG "Screenshot1")
