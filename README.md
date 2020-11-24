@@ -27,10 +27,14 @@ My personal screenshot from Shortcut can be seen below:
 4. Run Shortcut
 5. done
 
+
+
 Optional and recommended:
+
 6. Set automation to run this shortcut (e.g. every hour)
 7. Set also automation for sunset and sunrise
 8. turn notifications for Shortcuts-app off ( iPhone settings --> usage time --> click on more (under diagramm) -> scroll down to notifications and find Shortcuts ( at least one automation/notications is required on phone before you see shortcuts here) --> turn off )
+
 
 ### Sources/Credits: ###
 
