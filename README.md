@@ -4,7 +4,8 @@
 
 IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
 
-Shortcut for iOS 14.3 can be downloaded here [Install Shortcut](https://www.icloud.com/shortcuts/ed1a6a4042bb4a6e87a9a0b676f5a7b4 "Shortcut").
+Shortcut for iOS 14.3 can be downloaded here [Install Shortcut](https://www.icloud.com/shortcuts/7c8c0c1b63a4441f974bfd213ac70ddb "Shortcut").
+  
  
 My personal screenshot from Shortcut can be seen below:
 ![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LS.PNG "Screenshot1")
@@ -13,16 +14,18 @@ My personal screenshot from Shortcut can be seen below:
 ### Installation Guideline: ###
 1. Create Subfolder "iOSWeather" to your iCloud "Shortcuts" folder
 2. Create Subfolder "walls" to the subfolder created above (in "iOSWeather")
-3. Place your own Wallpapers (try to match your iPhone screen size, but do not exceed maximum size; in Shortcuts the wallpapers are limited to your screensize --> [Device Screensizes](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Device Screensizes") e.g. iPhone 11: 828x1792 px MAX!!:
- Store 4 Wallpapers to the folder "/Shortcuts/iOSWeather/walls/" with the SAME file names shown in screenshot below:
+3. We need to place 4 wallpapers in your iCloud-folder "/Shortcuts/iOSWeather/walls/". You can do that manually or using another shortcut below:
+   3a. You may install a schortcut to select from your photo-library: [Install Setup iOS Weather](https://www.icloud.com/shortcuts/3f47d801765b417e9a6ade5c897b1aa4 "Install Setup iOS Weather"). 
+   3b. Place your own Wallpapers (try to match your iPhone screen size,  --> [Device Screensizes](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Device Screensizes") e.g. iPhone 11: 828x1792 px MAX!!:
+      Store 4 Wallpapers into the folder "/Shortcuts/iOSWeather/walls/" with the SAME file names shown in screenshot below:
  
  
-  ![files](https://github.com/thewaytozion/widgets/blob/main/img/wallpapers.png "Files")
+      ![files](https://github.com/thewaytozion/widgets/blob/main/img/wallpapers.png "Files")
   
-  The wallpapers can have the same image in it, but the intend is to have 4 separate wallpapers for lockscreen and homescreen with night and day time.
-  You may use the following wallpapers for testing purposes.
+      The wallpapers can have the same image in it, but the intend is to have 4 separate wallpapers for lockscreen and homescreen with night and day time.
+      You may use the following wallpapers for testing purposes.
   
-   [Wallpaper iPhone 11 Max Pro](https://github.com/thewaytozion/widgets/tree/main/img/walls "Wallpaper iPhone 11 Max Pro")
+      [Wallpaper iPhone 11 Max Pro](https://github.com/thewaytozion/widgets/tree/main/img/walls "Wallpaper iPhone 11 Max Pro")
   
 4. Run Shortcut
 5. done
