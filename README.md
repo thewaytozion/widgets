@@ -22,6 +22,7 @@ My personal screenshot from Shortcut can be seen below:
 
       3b. Place your own Wallpapers (try to match your iPhone screen size,  --> [Device Screensizes](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Device Screensizes") e.g. iPhone 11: 828x1792 px MAX!!:
       Store 4 Wallpapers into the folder "/Shortcuts/iOSWeather/walls/" with the SAME file names shown in screenshot below:
+      
  
  
       ![files](https://github.com/thewaytozion/widgets/blob/main/img/wallpapers.png "Files")
