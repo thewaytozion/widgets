@@ -14,21 +14,30 @@ My personal screenshot from Shortcut can be seen below:
 ![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/HS.PNG "Screenshot2")
 
 ### Installation Guideline: ###
+
 1. We need to place 4 wallpapers in your iCloud-folder "/Shortcuts/iOSWeather/walls/". You can do that manually (1b) or using another shortcut (1a) below:
 
 1a. You may install a schortcut to select from your photo-library: [Install Setup iOS Weather](https://www.icloud.com/shortcuts/3f47d801765b417e9a6ade5c897b1aa4 "Install Setup iOS Weather"). 
-      
+
 1b Manually store wallpaper images to iCloud folder:
+
 Create Subfolder "iOSWeather" to your iCloud "Shortcuts" folder
+
 Create Subfolder "walls" to the subfolder created above (in "iOSWeather")
-      
+
 Place your own Wallpapers (try to match your iPhone screen size,  --> [Device Screensizes](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/ "Device Screensizes") e.g. iPhone 11: 828x1792 px MAX!!:
+
 Store 4 Wallpapers into the folder "/Shortcuts/iOSWeather/walls/" with the SAME file names shown in screenshot below:
+
 ![files](https://github.com/thewaytozion/widgets/blob/main/img/wallpapers.png "Files")
+
 The wallpapers can have the same image in it, but the intend is to have 4 separate wallpapers for lockscreen and homescreen with night and day time.
 You may use the following wallpapers for testing purposes.
+
 [Wallpaper iPhone 11 Max Pro](https://github.com/thewaytozion/widgets/tree/main/img/walls "Wallpaper iPhone 11 Max Pro")
+
 2. Run Shortcut
+
 3. done
 
 
