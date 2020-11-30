@@ -11,7 +11,7 @@ My personal screenshot from Shortcut can be seen below:
 
 ![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LSMoon.PNG "Screenshot1")
 
-![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LSun.PNG "Screenshot2")
+![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LSSun.PNG "Screenshot2")
 
 ### Installation Guideline: ###
 
@@ -32,7 +32,7 @@ Optional and recommended:
 ### Sources/Credits: ###
 
 1. Text to PNG source code from [Text to PNG](https://routinehub.co/shortcut/6552/ "Text to PNG") by [atnbueno](https://routinehub.co/user/atnbueno "atnbueno")
-2. [Baseline Wall used](https://steamcommunity.com/sharedfiles/filedetails/?id=1441736444 "Baseline Wall used") by [skitz :] ](https://steamcommunity.com/id/ariff0/myworkshopfiles/?appid=431960 "skitz :]") 
+2. [Baseline Wall used](https://steamcommunity.com/sharedfiles/filedetails/?id=1441736444 "Baseline Wall used") by [skitz](https://steamcommunity.com/id/ariff0/myworkshopfiles/?appid=431960 "skitz :]") 
 
 ## Weather Shortcut on Lockscreen / Homescreen ##
 
