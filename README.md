@@ -1,4 +1,39 @@
 
+## Weather Shortcut on Lockscreen w/ "Traveling" Moon/Sun ##
+
+
+IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
+
+Just a modification from Shortcut presented below.
+  
+ 
+My personal screenshot from Shortcut can be seen below:
+
+![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LSMoon.PNG "Screenshot1")
+
+![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LSun.PNG "Screenshot2")
+
+### Installation Guideline: ###
+
+1. Download all images from here: [Download Lockscreen Layer Images](https://github.com/thewaytozion/widgets/tree/main/img/daynightwalls  "Download Lockscreen Layer Images") and place the images into your iCloud- folder (you have to create this folder):
+
+/Shortcuts/iOSWeather/daynightwalls/Scaling/
+
+2. Download the "Setup Shortcut" and run it on your device: [Install Setup iOS Weather LATER]( "Install Setup iOS Weather"). You have to run it 3 times initially to set up Lockscreen, Homescreen day and Homescreen night, follow guideline within this shortuct.
+
+3. Download the [SunMoonWeather Shortcut LATER]( "Install SunMoonWeather Shortcut") and run it.
+
+Optional and recommended:
+
+4. Set automation to run this shortcut (e.g. every hour)
+5. Set also automation for sunset and sunrise
+6. turn notifications for Shortcuts-app off ( iPhone settings --> usage time --> click on more (under diagramm) -> scroll down to notifications and find Shortcuts ( at least one automation/notications is required on phone before you see shortcuts here) --> turn off )
+
+### Sources/Credits: ###
+
+1. Text to PNG source code from [Text to PNG](https://routinehub.co/shortcut/6552/ "Text to PNG") by [atnbueno](https://routinehub.co/user/atnbueno "atnbueno")
+2. [Baseline Wall used](https://steamcommunity.com/sharedfiles/filedetails/?id=1441736444 "Baseline Wall used") by [skitz :] ](https://steamcommunity.com/id/ariff0/myworkshopfiles/?appid=431960 "skitz :]") 
+
 ## Weather Shortcut on Lockscreen / Homescreen ##
 
 
