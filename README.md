@@ -15,11 +15,11 @@ My personal screenshot from Shortcut can be seen below:
 
 ### Installation Guideline: ###
 
-1. Download all images from here: [Download Lockscreen Layer Images](https://github.com/thewaytozion/widgets/tree/main/img/daynightwalls  "Download Lockscreen Layer Images") and place the images into your iCloud- folder (you have to create this folder):
+1. Download all images from here: [Download Lockscreen Layer Images](https://github.com/thewaytozion/widgets/tree/main/img/daynightwalls/Scaling/  "Download Lockscreen Layer Images") and place the images into your iCloud- folder (you have to create this folder):
 
 /Shortcuts/iOSWeather/daynightwalls/Scaling/
 
-2. Download the "Setup Shortcut" and run it on your device: [Install Setup iOS Weather LATER]( "Install Setup iOS Weather"). You have to run it 3 times initially to set up Lockscreen, Homescreen day and Homescreen night, follow guideline within this shortuct.
+2. Download the "Setup Shortcut" and run it on your device: [Install Setup iOS Weather LATER]( "Install Setup iOS Weather"). You have to run it 3 times initially to set up Lockscreen, Homescreen day and Homescreen night, follow guideline within this shortcut.
 
 3. Download the [SunMoonWeather Shortcut LATER]( "Install SunMoonWeather Shortcut") and run it.
 
