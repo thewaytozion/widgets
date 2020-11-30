@@ -19,9 +19,9 @@ My personal screenshot from Shortcut can be seen below:
 
 /Shortcuts/iOSWeather/daynightwalls/Scaling/
 
-2. Download the "Setup Shortcut" and run it on your device: [Install Setup iOS Weather LATER]( "Install Setup iOS Weather"). You have to run it 3 times initially to set up Lockscreen, Homescreen day and Homescreen night, follow guideline within this shortcut.
+2. Download the "Setup Shortcut" and run it on your device: [Install Setup iOS Weather](https://www.icloud.com/shortcuts/8c74cc0230be48ff9005fdbfa6f752eb "Install Setup iOS Weather"). You have to run it 3 times initially to set up Lockscreen, Homescreen day and Homescreen night, follow guideline within this shortcut.
 
-3. Download the [SunMoonWeather Shortcut LATER]( "Install SunMoonWeather Shortcut") and run it.
+3. Download the [SunMoonWeather Shortcut](https://www.icloud.com/shortcuts/6c36399030104cdabae788cc5b5dafb1 "Install SunMoonWeather Shortcut") and run it.
 
 Optional and recommended:
 
