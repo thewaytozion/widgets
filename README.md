@@ -9,9 +9,9 @@ Just a modification from Shortcut presented below.
  
 My personal screenshot from Shortcut can be seen below:
 
-![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LSMoon.PNG "Screenshot1")
+![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LSMoon.png "Screenshot1")
 
-![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LSSun.PNG "Screenshot2")
+![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LSSun.png "Screenshot2")
 
 ### Installation Guideline: ###
 
