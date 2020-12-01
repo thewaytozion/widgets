@@ -21,7 +21,7 @@ My personal screenshot from Shortcut can be seen below:
 
 2. Download the "Setup Shortcut" and run it on your device: [Install Setup Sun Moon Weather](https://www.icloud.com/shortcuts/ffafb8f692d84d22b0ae49a69efa3b05 "Install Setup Sun Moon Weather"). You have to run it 3 times initially to set up Lockscreen, Homescreen day and Homescreen night, follow guideline within this shortcut.
 
-3. Download the [SunMoonWeather Shortcut](https://www.icloud.com/shortcuts/6c36399030104cdabae788cc5b5dafb1 "Install SunMoonWeather Shortcut") and run it.
+3. Download the [SunMoonWeather Shortcut](https://www.icloud.com/shortcuts/c44dc0df94e44d8a865990a300f3a1fc "Install SunMoonWeather Shortcut") and run it.
 
 Optional and recommended:
 
