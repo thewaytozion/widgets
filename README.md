@@ -17,6 +17,8 @@ My personal screenshot from Shortcut can be seen below:
 
 /Shortcuts/iOSWeather/
 
+Dankeschön an [kleinmone](https://twitter.com/kleinmone "kleinmone") for Wallpaper Support!
+
 2. Extract zip-file
 
 3. Run setup shortcut 3 times to setup, lockscreen layers, homescreen images for day and night
