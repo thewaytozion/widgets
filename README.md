@@ -1,3 +1,28 @@
+## Weather Shortcut on Lockscreen w/ "Traveling" Moon/Sun ModV2 ##
+
+IS RUNNING ON iOS 14.3 (beta2) ONLY. Crossing fingers that "Set Wallpaper" function will stay with public iOS 14.3 release.
+
+Just a modification from Shortcut presented before.
+- added precipitation forecast for next 4 hr ( if at all)
+- added weather icon ( should work for English, German devices) 
+
+My personal screenshot from Shortcut can be seen below:
+
+![Screenshot1](https://github.com/thewaytozion/widgets/blob/main/img/LSNightS.PNG "Screenshot1")
+
+![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LSDayS.PNG "Screenshot2")
+
+### Installation Guideline: ###
+1. Download all images from here: [Download Images](  "Download Images") and place the zip-file into your iCloud- folder (you have to create this folder):
+
+/Shortcuts/iOSWeather/
+
+2. xtract zip-file
+
+3. Run setup shortcut 3 times to setup, lockscreen layers, homescreen images forcday an night
+
+4. Run Weather Shortcut
+
 
 ## Weather Shortcut on Lockscreen w/ "Traveling" Moon/Sun ##
 
@@ -17,8 +42,7 @@ My personal screenshot from Shortcut can be seen below:
 
 1. Download all images from here: [Download Lockscreen Layer Images](https://github.com/thewaytozion/widgets/tree/main/img/daynightwalls/Scaling/  "Download Lockscreen Layer Images") and place the images into your iCloud- folder (you have to create this folder):
 
-/Shortcuts/iOSWeather/daynightwalls/Scaling/
-
+/Shortcuts/iOSWeather/
 2. Download the "Setup Shortcut" and run it on your device: [Install Setup Sun Moon Weather](https://www.icloud.com/shortcuts/ffafb8f692d84d22b0ae49a69efa3b05 "Install Setup Sun Moon Weather"). You have to run it 3 times initially to set up Lockscreen, Homescreen day and Homescreen night, follow guideline within this shortcut.
 
 3. Download the [SunMoonWeather Shortcut](https://www.icloud.com/shortcuts/2bbeb1e7ec2249908534f29d89961947 "Install SunMoonWeather Shortcut") and run it.
