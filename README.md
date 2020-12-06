@@ -17,12 +17,15 @@ My personal screenshot from Shortcut can be seen below:
 
 /Shortcuts/iOSWeather/
 
-2. xtract zip-file
+2. Extract zip-file
 
-3. Run setup shortcut 3 times to setup, lockscreen layers, homescreen images forcday an night
+3. Run setup shortcut 3 times to setup, lockscreen layers, homescreen images for day and night
+
+ [Setup Shortcut](  "Setup Shortcut")
 
 4. Run Weather Shortcut
 
+ [Download Images](  "Download Images")
 
 ## Weather Shortcut on Lockscreen w/ "Traveling" Moon/Sun ##
 
