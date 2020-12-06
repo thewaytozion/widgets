@@ -13,7 +13,7 @@ My personal screenshot from Shortcut can be seen below:
 ![Screenshot2](https://github.com/thewaytozion/widgets/blob/main/img/LSDayS.PNG "Screenshot2")
 
 ### Installation Guideline: ###
-1. Download all images from here: [Download Images](  "Download Images") and place the zip-file into your iCloud- folder (you have to create this folder):
+1. Download all images from here: [Download Images](https://www.dropbox.com/s/4vqrq7rqe2whvde/daynightwalls.zip?dl=0 "Download Images") and place the zip-file into your iCloud- folder (you have to create this folder):
 
 /Shortcuts/iOSWeather/
 
@@ -23,11 +23,11 @@ Dankeschön an [kleinmone](https://twitter.com/kleinmone "kleinmone") for Wallpa
 
 3. Run setup shortcut 3 times to setup, lockscreen layers, homescreen images for day and night
 
- [Setup Shortcut](  "Setup Shortcut")
+ [Setup Shortcut](https://www.icloud.com/shortcuts/55203f4fa147452d8adf43aeb8bdc794 "Setup Shortcut")
 
 4. Run Weather Shortcut
 
- [Download Images](  "Download Images")
+ [Download SunMoonWeather Shortcut](https://www.icloud.com/shortcuts/35b81011c6fd445e9e711417fa98f82a "Download SunMoonWeather Shortcut")
 
 ## Weather Shortcut on Lockscreen w/ "Traveling" Moon/Sun ##
 
