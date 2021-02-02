@@ -119,7 +119,7 @@ Optional and recommended:
 2. Wallpaper preparation from [kleinmone](https://twitter.com/kleinmone "kleinmone") 
 
 ---
-## Weather Widget ##
+## Weather_Widget ##
 
 Widget to be used in [Scriptable-AppStore](https://t.co/XuruULlFCb?amp=1 "Scriptable-AppStore") for iOS14.
 
